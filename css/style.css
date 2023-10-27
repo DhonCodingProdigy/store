@@ -1,0 +1,18 @@
+:root {
+    --font: 'Skranji', cursive;
+}
+*{box-sizing: border-box;}
+
+.item-type {
+    font-size: 50px;
+}
+
+.heading {
+    font-family: var(--font);
+}
+
+.socials-div {
+    color: black;
+}
+
+
